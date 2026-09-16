@@ -1,0 +1,3 @@
+SHA3-256 hash of 'Hello World':
+ e167f68d6563d75bb25f3aa49c29ef612d41352dc00606de7cbd630bb2665f51
+ Do dai: 64 ky tu hexadecimal

@@ -1,0 +1,5 @@
+File: input.txt
+Kich thuoc: 35 <class 'bytes'>
+SHA3-256 hash:
+  2c0c44f3aaff634d5e0110d4193e629ee733d836af47911f526bd0d90870aeac
+ Do dai: 64  ky tu hexadecimal ( 256 bit)

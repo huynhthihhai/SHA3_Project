@@ -1,0 +1,32 @@
+TEST 1: TINH XAC DINH
+Input:  Hello World
+Hash lan 1: e167f68d6563d75bb25f3aa49c29ef612d41352dc00606de7cbd630bb2665f51
+Hash lan 2: e167f68d6563d75bb25f3aa49c29ef612d41352dc00606de7cbd630bb2665f51
+Ket qua: GIONG NHAU 
+
+TEST 2: DO DAI DAU RA CO DINH
+Input 1 ky tu -> Hash 64 ky tu hex ( 256 bit)
+Input 11 ky tu -> Hash 64 ky tu hex ( 256 bit)
+Input 1000 ky tu -> Hash 64 ky tu hex ( 256 bit)
+Input 35 ky tu -> Hash 64 ky tu hex ( 256 bit)
+
+TEST 3: HIEU UNG  Avalanche
+Input 1: Hello World
+Input 2: Hello world
+Hash 1:  e167f68d6563d75bb25f3aa49c29ef612d41352dc00606de7cbd630bb2665f51
+Hash 2:  369183d3786773cef4e56c7b849e7ef5f742867510b676d6b38f8e38a222d8a2
+So bit khac nhau: 124 /256 ( 48.44 %)
+
+Input 3: Hello World
+Input 4: Hello World!
+Hash 3: e167f68d6563d75bb25f3aa49c29ef612d41352dc00606de7cbd630bb2665f51
+Hash 4: d0e47486bbf4c16acac26f8b653592973c1362909f90262877089f9c8a4536af
+So bit khac nhau: 136 /256 ( 53.12 %)
+
+TEST 4: TINH TOAN VEN
+Du lieu goc: Du lieu quan trong
+Hash goc: add1ffe8a0d24259cbd5a685e1c1526e9f4fd1cef4e9f451b8898cf59a16ebb0
+Du lieu sua: Du lieu quan trong!
+Hash sua: 9ca2a28656b41016a9f194a6b92dd2d14f698ecfaaad9330cca73e7dd829e3f4
+Ket qua: DA BI THAY DOI
+
